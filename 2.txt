@@ -81,7 +81,7 @@
   205   267     1   0 чт05  ??         0:00.41 /usr/libexec/trustd --agent
   205   269     1   0 чт05  ??         0:00.13 /usr/libexec/containermanagerd --runmode=agent --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
   202   271     1   0 чт05  ??         0:01.26 Core Audio Driver (Omi Mirror Audio Driver.driver)
-    0   273     1   0 чт05  ??         0:00.83 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+fg    0   273     1   0 чт05  ??         0:00.83 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
     0   274     1   0 чт05  ??         0:00.10 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
   202   275     1   0 чт05  ??         0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
     0   276     1   0 чт05  ??         0:00.03 /usr/libexec/smd
