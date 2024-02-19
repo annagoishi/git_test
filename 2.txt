@@ -1,4 +1,4 @@
-  UID   PID  PPID   C STIME   TTY           TIME CMD
+   UID   PID  PPID   C STIME   TTY           TIME CMD
     0     1     0   0 чт05  ??         1:19.53 /sbin/launchd
     0    73     1   0 чт05  ??         0:03.54 /usr/sbin/syslogd
     0    74     1   0 чт05  ??         0:06.17 /usr/libexec/UserEventAgent (System)
@@ -439,3 +439,5 @@
     0  5500  5475   0 11:04   ttys001    0:00.04 login -pf annganzha
   501  5501  5500   0 11:04   ttys001    0:00.21 -zsh
     0  5732  5501   0 11:41   ttys001    0:00.01 ps -ef
+X
+rtxX≈xq
